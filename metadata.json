@@ -1,7 +1,7 @@
 {
-  "name": "",
+  "name": "Eigen Layer",
   "website": "",
-  "description": "",
-  "logo": "",
+  "description": "Operator for Eigen Layer",
+  "logo": "https://raw.githubusercontent.com/chiencb/eigen/main/eigen_operator.png",
   "twitter": ""
 }
